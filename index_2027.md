@@ -1,12 +1,12 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Thomas Wagstaff Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Thomas Wagstaff
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="thwagstaff@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 </div>
 
@@ -15,15 +15,12 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2019-2022`
 
-- Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 
 
 
 ## Related Experience
