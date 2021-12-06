@@ -27,12 +27,12 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`July 2021 - September 2021`
+__Data Research Intern__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Research and record proper data for area building costs
+- Work in a team to present findings to client and change research methods to their needs
+
 
 ### Data Science Lead
 
