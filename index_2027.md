@@ -20,7 +20,8 @@ title: Thomas Wagstaff Resume
 
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 
+- 	Related Courses: Data Science Programming, Database Design, Intermediate Statistics, Business Analytics, Programming with Functions, Databases, Market Analysis, Social Media Marketing, Digital Marketing Strategy, Web Business Creation, Small Business Creation.
+- 	Launched a Student Ran food business
 
 
 ## Related Experience
