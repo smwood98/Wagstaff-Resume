@@ -44,7 +44,7 @@ __Westmark Credit Union__, Consultant
 - Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
 - Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
 
-`September 2027 - April 2028`
+`September 2020 - April 2028`
 
 
 - Built product ordering and supply predictive algorithms for chips and beverages categories
